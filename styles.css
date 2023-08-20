@@ -1,0 +1,148 @@
+.title-image{
+  width:600px;
+}
+
+.navbar-nav{
+  margin-left:auto;
+}
+#title{
+   background-image: url('gym-image.jpg');
+    color: white;
+
+}
+h1{
+font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+
+}
+.navbar-brand{
+  font-family: "ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.navbar{
+  padding-bottom: 4.5rem;
+}
+
+.nav-item{
+  padding:0 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat-light";
+}
+
+.container-fluid{
+  padding: 3% 15% 7%;}
+
+  .title-image{
+
+
+
+}
+
+
+
+.download-button{
+  margin:5% 3% 5% 0;
+}
+
+h2{
+  font-family: "Montserrat";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h3{
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+.phone-img{
+  width:70%;
+
+}
+.ul{
+  font-size: 2rem;
+  line-height: 2;
+  margin-top: 50px;
+}
+
+#features{
+  background-color: #F9F5F6;
+
+}
+.desc{
+  font-size: 1.5rem;
+  line-height: 1.5;
+background-color: #F9F5F6;
+}
+
+
+#testimonials{
+
+  text-align: center;
+ background-image: url("https://static.vecteezy.com/system/resources/previews/000/523/535/original/5g-internet-technology-background-next-generation-of-mobile-network-and-digital-data-connected-with-smartphone-on-blue-background-vector.jpg");
+  color:#fff;
+  font-size: 10px;
+}
+
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press{
+ background-image: url("https://static.vecteezy.com/system/resources/previews/000/523/535/original/5g-internet-technology-background-next-generation-of-mobile-network-and-digital-data-connected-with-smartphone-on-blue-background-vector.jpg");
+  text-align: center;
+}
+
+.press-logo{
+  width: 15%;
+  margin:20px 20px 50px;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+
+.desc{
+  margin: 2px 0;
+}
+
+.concluding{
+  margin:5%;
+  padding: 100px;
+  text-align: center;
+}
+.last{
+  background-image: url("https://static.vecteezy.com/system/resources/previews/000/523/535/original/5g-internet-technology-background-next-generation-of-mobile-network-and-digital-data-connected-with-smartphone-on-blue-background-vector.jpg");
+   text-align: center;
+   color:grey;
+   padding: 30px;
+}
+.fcc-btn {
+  background-color: #000000;
+  color: white;
+  padding: 15px 25px;
+  text-decoration: none;
+}
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+input[type=email] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  color:#fff;
+  background-color: #000000;
+  padding: 15px 25px;
+}
